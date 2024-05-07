@@ -1,0 +1,8 @@
+name: 'Aqto Layout Builder Styles'
+description: 'Provides Layout Builder Styles for use in Aqto sites.'
+type: module
+core_version_requirement: '^9.4 || ^10'
+dependencies:
+  - aqto_blocks
+  - block
+  - layout_builder_styles

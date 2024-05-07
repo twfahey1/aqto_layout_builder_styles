@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies: {  }
+id: p_32
+label: p-32
+classes: p-32
+type: section
+group: padding
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

@@ -1,0 +1,3 @@
+excluded:
+  - block.block.aqto_theme_base_
+required: true
