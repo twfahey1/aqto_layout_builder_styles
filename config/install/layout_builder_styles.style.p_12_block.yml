@@ -1,11 +1,11 @@
 langcode: en
 status: true
 dependencies: {  }
-id: p_12
-label: p-12
+id: p_12_block
+label: p-4
 classes: p-12
-type: section
+type: component
 group: padding
-weight: 0
 block_restrictions: {  }
 layout_restrictions: {  }
+weight: 0

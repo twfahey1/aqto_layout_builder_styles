@@ -3,6 +3,6 @@ description: 'Provides Layout Builder Styles for use in Aqto sites.'
 type: module
 core_version_requirement: '^9.4 || ^10'
 dependencies:
-  - aqto_blocks
-  - block
-  - layout_builder_styles
+  - 'aqto_blocks:aqto_blocks'
+  - 'drupal:block'
+  - 'layout_builder_styles:layout_builder_styles'

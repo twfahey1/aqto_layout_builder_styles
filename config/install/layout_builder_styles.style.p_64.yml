@@ -6,6 +6,6 @@ label: p-64
 classes: p-64
 type: section
 group: padding
+weight: 0
 block_restrictions: {  }
 layout_restrictions: {  }
-weight: 0

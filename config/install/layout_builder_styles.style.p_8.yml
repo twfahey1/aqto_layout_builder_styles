@@ -6,6 +6,6 @@ label: p-8
 classes: p-8
 type: section
 group: padding
+weight: 0
 block_restrictions: {  }
 layout_restrictions: {  }
-weight: 0
