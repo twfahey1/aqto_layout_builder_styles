@@ -1,10 +1,10 @@
 langcode: en
 status: true
 dependencies: {  }
-id: p_24_block
-label: p-4
-classes: p-24
-type: component
+id: section_p_16
+label: p-16
+classes: p-16
+type: section
 group: padding
 block_restrictions: {  }
 layout_restrictions: {  }

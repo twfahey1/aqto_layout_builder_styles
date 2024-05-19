@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies: {  }
+id: section_p_8
+label: p-8
+classes: p-8
+type: section
+group: padding
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

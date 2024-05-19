@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies: {  }
+id: block_p_8_lg
+label: p-8 lg
+classes: lg:p-8
+type: component
+group: padding_lg
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

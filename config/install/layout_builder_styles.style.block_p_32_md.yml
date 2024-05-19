@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies: {  }
+id: block_p_32_md
+label: p-32 md
+classes: md:p-32
+type: component
+group: padding_md
+block_restrictions: {  }
+layout_restrictions: {  }
+weight: 0

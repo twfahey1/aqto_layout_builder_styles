@@ -1,9 +1,9 @@
 langcode: en
 status: true
 dependencies: {  }
-id: p_32_block
-label: p-4
-classes: p-32
+id: block_p_2
+label: p-2
+classes: p-2
 type: component
 group: padding
 block_restrictions: {  }

@@ -1,8 +1,8 @@
 langcode: en
 status: true
 dependencies: {  }
-id: p_8_block
-label: p-4
+id: block_p_8
+label: p-8
 classes: p-8
 type: component
 group: padding
